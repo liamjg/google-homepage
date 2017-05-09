@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="styles/styles.css" rel="stylesheet" type="text/css"/>
+    <title>Google</title>
+  </head>
+  <body>
+    <div id = "navbar">
+      <ul>
+        <li>Mail</li>
+        <li>Images</li>
+        <li>Sign in</li>
+      </ul>
+    </div>
+    <center>
+      <img src="https://www.google.com/logos/doodles/2017/teachers-day-2017-united-states-5089521115856896.11-law.gif" alt="Google">
+      <form>
+        <input type="text" name="search">
+      </form>
+    </center>
+
+  </body>
+</html>
