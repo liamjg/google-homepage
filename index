@@ -13,10 +13,18 @@
       </ul>
     </div>
     <center>
-      <img src="https://www.google.com/logos/doodles/2017/teachers-day-2017-united-states-5089521115856896.11-law.gif" alt="Google">
-      <form>
-        <input type="text" name="search">
-      </form>
+      <div class="logo">
+        <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google">
+      </div>
+      <div class="search">
+        <form>
+          <input type="text" name="search">
+        </form>
+      </div>
+      <div class="buttons">
+        <button>find some stuff</button>
+        <button>feelin luckkaayy</button>
+      </div>
     </center>
 
   </body>

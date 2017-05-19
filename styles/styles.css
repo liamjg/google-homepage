@@ -12,12 +12,25 @@ li {
 li {
     display: block;
     color: black;
-    text-align: cente;
-    padding: 14px 16px;
+    text-align: center;
+    padding: 0.5em 0.5em;
+    font-family: arial;
+    font-size: small;
     text-decoration: none;
 }
 
 /* Change the link color to #111 (black) on hover */
 li:hover {
     text-decoration: underline;
+}
+center{
+  padding-top:5em;
+}
+center, img{
+  display: block;
+  margin: 0 auto;
+}
+center, form, input{
+  width: 70%;
+
 }
